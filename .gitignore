@@ -1,0 +1,21 @@
+# Ignore Node Module #
+######################
+node_modules/
+package-lock.json
+
+# Ignore vscode
+.vscode/
+
+# Ignore videos and images
+*.mp4
+*.png
+cypress/videos
+cypress/results
+reports
+cypress/screenshots
+
+# Igore IDEA stuffs
+.idea/
+
+# Skip mochawesome-report
+mochawesome-report/
